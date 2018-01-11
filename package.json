@@ -1,6 +1,6 @@
 {
   "name": "swstoggle",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Toggle html class attribute",
   "main": "src/index.js",
   "config": {
